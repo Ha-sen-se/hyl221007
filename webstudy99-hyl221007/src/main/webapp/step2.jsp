@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="container pt-3">
-step 2
+step 2 작업 추가
 </div>
 </body>
 </html>
