@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="container pt-3">
-main 1  ui작업
+main 1  ui작업 Ui작업 ver2
 </div>
 </body>
 </html>
